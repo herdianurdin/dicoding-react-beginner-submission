@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dicoding-react-pemula/static/css/main.515acb0a.css",
+    "main.js": "/dicoding-react-pemula/static/js/main.3c2c1cf6.js",
+    "index.html": "/dicoding-react-pemula/index.html",
+    "main.515acb0a.css.map": "/dicoding-react-pemula/static/css/main.515acb0a.css.map",
+    "main.3c2c1cf6.js.map": "/dicoding-react-pemula/static/js/main.3c2c1cf6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.515acb0a.css",
+    "static/js/main.3c2c1cf6.js"
+  ]
+}
